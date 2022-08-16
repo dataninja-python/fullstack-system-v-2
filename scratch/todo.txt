@@ -1,8 +1,27 @@
-add axios
-add knex
-add bettersqlite
-add dotenv
-add cors
+# PROBLEMS
+    [] Authentication
+    [] database
+    [] front-end forms with validation
+    [] backend data transfer with security and validation
+    [] move to host for team temporary viewing
+    [] Auth0
+    [] build production version of app
+    [] switch to production hosting
+    [] add appropriate CDN (cloudflare, etc)
+
+
+
+# ADD TO INSTALLATION FILES (IF NEEDED)
+[] axios
+[] graphql
+[] bettersqlite
+[] knex
+[] dotenv
+[] cors
+[] react
+[] react forms
+[] react progress bar
+[] 
 
 
 add other key requirements from 
