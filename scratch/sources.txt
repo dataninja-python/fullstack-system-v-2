@@ -1,0 +1,13 @@
+https://fettblog.eu/typescript-react/hooks/
+
+
+youtube
+how to create a express/mnode + react project | node backend | arpan neupane
+react & typescript - course for begineers | freecodecamp.org
+6 mistakes every junior react developer mistakes
+5 javascript concepts you have to know
+how senior programmers actually write code
+auth for new devs: it's easier than you think
+react project tutorial: build a responsive portfolio website
+how to create a navbar in react with routing
+how to deploy a react app to github pages

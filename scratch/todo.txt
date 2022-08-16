@@ -1,0 +1,9 @@
+add axios
+add knex
+add bettersqlite
+add dotenv
+add cors
+
+
+add other key requirements from 
+initial project that I got very close to finishing with the step forms
