@@ -1,9 +1,19 @@
 # in general ignore eveything I don't specify
-*
+#*
+scratch
 
 # add back main items
 !*README.md
-!server
+!server/
+!server/controllers/
+!server/middleware/
+!server/models/
+!server/utils/
+!server/routes/
+!server/config/
+!server/src
+!server/src/api
+!server/src/api/*
 !client
 !performance
 !scratch/todo.txt
